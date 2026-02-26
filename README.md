@@ -1,4 +1,9 @@
-# cloud-security
-Cloud security engineering portfolio — AWS/Azure hardening, CSPM, SIEM, IaC security, and incident response mapped to NIST 800-53 and FedRAMP baselines.
-This is an open space for constructive critisim and guidanice in my thought process of constructing an secure and effeicent that is IAW with DoD recognized guidelines. 
-This project was paired with the Claude Opus 4.6 for guidanice and understanding.
+# Purpose and Disclaimer in 10 Secounds or Less
+- Cloud security engineering portfolio — AWS/Azure hardening, CSPM, SIEM, IaC security, and incident response mapped to NIST 800-53 and FedRAMP baselines.
+- This is an open space for constructive critisim and guidanice in my thought process of constructing a secure and effeicent cloud enviroment that is IAW with DoD recognized guidelines. 
+
+## Education resources 
+- **Claude Opus 4.6** 
+- **NIST 800-53 Rev5**
+- **CIS Amazon Web Services Foundation Benchmark V6.0.0 09-23-2025**
+- **CIS Microsoft Azure Foundation Benchmark V2.0.0 06-27-2025**
