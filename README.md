@@ -9,7 +9,7 @@ AWS and Azure security hardening, CSPM, SIEM integration, IaC security automatio
 | Phase | Focus Area | Status | NIST 800-53 Controls |
 |---|---|---|---|
 | [Phase 0 — Account Hardening](./phase-0-account-hardening) | AWS baseline security: IAM, MFA, CloudTrail, KMS encryption, log retention | ✅ Complete 23FEB2026-25FEB2026| IA-2, AC-6, AU-2, AU-3, AU-9, AU-11, SC-28, CM-8 |
-| Phase 1 — Terraform + CI/CD Security | IaC modules (VPC, S3, IAM), Checkov scanning, GitHub Actions pipeline | 🔄 In Progress | CM-6, SA-10, SA-11, SC-7 |
+| Phase 1 — Terraform + CI/CD Security | IaC modules (VPC, S3, IAM), Checkov scanning, GitHub Actions pipeline | 🔄 In Progress 25FEB2026- | CM-6, SA-10, SA-11, SC-7 |
 | Phase 2 — AWS Security Hub + Incident Response | Security Hub (NIST standard), CloudGoat attack scenarios, detection and remediation runbooks | Planned | SI-4, IR-4, IR-5, IR-6, CA-7 |
 | Phase 3 — Splunk SIEM Integration | CloudTrail → Splunk pipeline, detection rules, Stratus Red Team validation | Planned | AU-6, SI-4, IR-4, IR-5 |
 | Phase 4 — Azure Baseline + Multi-Cloud | Defender for Cloud, Azure Terraform modules, AWS vs Azure security comparison | Planned | IA-2, AU-2, SC-7, CA-7 |
